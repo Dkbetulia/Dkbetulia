@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @Dkbetulia
+- 👀 I'm interested in Web Development (Front End).
+- 🌱 I'm currently learning JavaScrip, Node.js, MongoDB, Express.js, React, CSS and HTML. 
+- 💞️ I am looking to collaborate on MERN Full Stack or Front End projects.
+- 📫 Contact me through my GitHub.
